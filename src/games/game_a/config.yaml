@@ -1,0 +1,6 @@
+profile: default
+resolution: "1920x1080"
+delays:
+  loop_seconds: 0.2
+thresholds:
+  low_hp: 0.3

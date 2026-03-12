@@ -1,0 +1,1 @@
+"""Games plugins package."""
